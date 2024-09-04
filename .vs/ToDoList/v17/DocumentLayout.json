@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\plandb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\plandb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|c:\\users\\quoca\\onedrive\\desktop\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\planitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\planitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|c:\\users\\quoca\\onedrive\\desktop\\todolist\\todolist\\ajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\ajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\ajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\ajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\dailyflan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dailyflan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\dailyflan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dailyflan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\todolist\\ajob.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741DBD3-9ACF-42A5-8D2A-796690EE22A4}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\ajob.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:42:14.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanItems.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\PlanItems.cs",
+              "RelativeDocumentMoniker": "ToDoList\\PlanItems.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\PlanItems.cs",
+              "RelativeToolTip": "ToDoList\\PlanItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:31:28.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Form1.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\C#\\ToDoList\\ToDoList\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\C#\\ToDoList\\ToDoList\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:58:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Form1.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\Form1.cs",
+              "RelativeToolTip": "ToDoList\\Form1.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAIwEoBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:24:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cons.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\Cons.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Cons.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\Cons.cs",
+              "RelativeToolTip": "ToDoList\\Cons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:07:19.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AJob.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\AJob.cs",
+              "RelativeDocumentMoniker": "ToDoList\\AJob.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\AJob.cs",
+              "RelativeToolTip": "ToDoList\\AJob.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAEwEsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:04:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AJob.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\AJob.cs",
+              "RelativeDocumentMoniker": "ToDoList\\AJob.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\C#\\ToDoList\\ToDoList\\AJob.cs [Design]",
+              "RelativeToolTip": "..\\C#\\ToDoList\\ToDoList\\AJob.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:58:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DailyFlan.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\DailyFlan.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DailyFlan.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\DailyFlan.cs",
+              "RelativeToolTip": "ToDoList\\DailyFlan.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv20AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:48:45.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanDB.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\PlanDB.cs",
+              "RelativeDocumentMoniker": "ToDoList\\PlanDB.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\PlanDB.cs",
+              "RelativeToolTip": "ToDoList\\PlanDB.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:14:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DailyFlan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\DailyFlan.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DailyFlan.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\C#\\ToDoList\\ToDoList\\DailyFlan.cs [Design]",
+              "RelativeToolTip": "..\\C#\\ToDoList\\ToDoList\\DailyFlan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:21:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AJob.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\AJob.Designer.cs",
+              "RelativeDocumentMoniker": "ToDoList\\AJob.Designer.cs",
+              "ToolTip": "C:\\Users\\quoca\\OneDrive\\Desktop\\TodoList\\ToDoList\\AJob.Designer.cs",
+              "RelativeToolTip": "ToDoList\\AJob.Designer.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAASwLoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:04:02.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

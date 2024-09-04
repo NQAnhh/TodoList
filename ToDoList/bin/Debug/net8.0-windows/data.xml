@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlanDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <PlanItems>
+      <Date>2024-06-28T00:00:00</Date>
+      <Job>Làm 300 bài code thiếu nhi</Job>
+      <FromTime>
+        <X>13</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>14</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItems>
+    <PlanItems>
+      <Date>2024-06-28T00:00:00</Date>
+      <Job>Học SQL / MySQL</Job>
+      <FromTime>
+        <X>15</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>16</X>
+        <Y>30</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItems>
+    <PlanItems>
+      <Date>2024-06-28T00:00:00</Date>
+      <Job>Cấu trúc dữ liệu và giải thuật</Job>
+      <FromTime>
+        <X>17</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>18</X>
+        <Y>30</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItems>
+    <PlanItems>
+      <Date>2024-06-28T00:00:00</Date>
+      <Job>Tập thể dục</Job>
+      <FromTime>
+        <X>19</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>19</X>
+        <Y>45</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItems>
+    <PlanItems>
+      <Date>2024-06-28T00:00:00</Date>
+      <Job>Học tiếng anh</Job>
+      <FromTime>
+        <X>21</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>21</X>
+        <Y>30</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItems>
+    <PlanItems>
+      <Date>2024-06-28T00:00:00</Date>
+      <Job>Đọc sách /  học 1 chút về Java</Job>
+      <FromTime>
+        <X>22</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>23</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItems>
+    <PlanItems>
+      <Date>2024-06-28T00:00:00</Date>
+      <Job>Đi ngủ</Job>
+      <FromTime>
+        <X>23</X>
+        <Y>30</Y>
+      </FromTime>
+      <ToTime>
+        <X>23</X>
+        <Y>50</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItems>
+    <PlanItems>
+      <Date>2024-07-29T00:00:00</Date>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>MISSED</Status>
+    </PlanItems>
+  </Job>
+</PlanDB>
